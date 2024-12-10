@@ -4,8 +4,13 @@
 
 This is a Pig Latin converter that demonstrates the basic structure of a Python package.
 
+<<<<<<< HEAD
 <local change>
 
+=======
+<remote change>
+  
+>>>>>>> 93da97840ba55ac433c667bd633b4b065d93025f
 ## Installation
 
 ### For regular users
