@@ -4,13 +4,6 @@
 
 This is a Pig Latin converter that demonstrates the basic structure of a Python package.
 
-<<<<<<< HEAD
-<local change>
-
-=======
-<remote change>
-  
->>>>>>> 93da97840ba55ac433c667bd633b4b065d93025f
 ## Installation
 
 ### For regular users
@@ -18,7 +11,7 @@ This is a Pig Latin converter that demonstrates the basic structure of a Python 
 If you just want to use this project, you can simply install it with:
 
 ```shell
-python -m pip install git+https://github.com/<username>/pig-latin
+python -m pip install git+https://github.com/Persephoney/pig-latin
 ```
 
 This will install the package and all of its dependencies into your current Anaconda
@@ -32,7 +25,7 @@ started.
 First clone the repository from GitHub to your personal folder on Workbench:
 
 ```shell
-git clone https://github.com/<username>/pig-latin
+git clone https://github.com/Persephoney/pig-latin
 ```
 
 Finally, install the package and its dependencies using pip:
@@ -62,4 +55,4 @@ documentation, feel free to e-mail the authors.
 
 This project is maintained by:
 
-1. <username> (<e-mail>)
+1. Persephoney (ym.den.bakker@gmail.com)
