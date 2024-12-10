@@ -10,10 +10,10 @@ readme = "README.md"
 
 # Fill in authors and maintainers here.
 authors = [
-    {name = "<username>", email = "user@domain.com"},
+    {name = "Persephoney", email = "ym.den.bakker@gmail.com"},
 ]
 maintainers = [
-    {name = "<username>", email = "user@domain.com"},
+    {name = "Persephoney", email = "ym.den.bakker@gmail.com"},
 ]
 
 # Optional classifications.
@@ -42,7 +42,7 @@ dev = [
 
 [project.urls]
 # URL of the GitHub repository.
-repository = "https://github.com/<username>/pig-latin"
+repository = "https://github.com/Persephoney/pig-latin"
 
 [build-system]
 # Using setuptools as build backend.
